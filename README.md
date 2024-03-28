@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARYAMANN7279
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python and ML
+- 🌱 I’m currently learning Python,ML,C and C++
 - 📫 How to reach me 😏😏😏
 - 😄 Pronouns: We don't do that here
 - ⚡ Fun fact: README Is automatically generated
